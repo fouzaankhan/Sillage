@@ -1,0 +1,12 @@
+Project: Sillage
+
+Rules:
+- Use TypeScript.
+- Preserve the current architecture.
+- Don't modify unrelated files.
+- Ask before deleting files.
+- Use async/await.
+- Avoid duplicate logic.
+- Keep components reusable.
+- Never hardcode secrets.
+- Explain major architectural changes before making them.
